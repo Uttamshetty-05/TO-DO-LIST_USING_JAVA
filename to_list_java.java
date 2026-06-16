@@ -23,7 +23,7 @@ public class to_list_java {
             System.out.println("3. Mark Task Completed");
             System.out.println("4. Delete Task");
             System.out.println("5. Exit");
-            System.out.print("Choose option: ");
+            System.out.print("Choose opt: ");
 
             int choice = sc.nextInt();
             sc.nextLine(); // consume newline
