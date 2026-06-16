@@ -51,7 +51,7 @@ public class to_list_java {
 
     static void viewTasks() {
         if (tasks.isEmpty()) {
-            System.out.println("No tasks available!");
+            System.out.println("No task available!");
             return;
         }
 
