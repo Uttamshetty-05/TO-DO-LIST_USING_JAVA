@@ -65,7 +65,7 @@ public class to_list_java {
 
     static void markCompleted() {
         viewTasks();
-        System.out.print("Enter task number: ");
+        System.out.print("Enter task numb: ");
         int index = sc.nextInt();
 
         if (index >= 0 && index < tasks.size()) {
